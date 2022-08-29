@@ -6,7 +6,7 @@ metadata:
 spec:
   type: team
   profile:
-    displayName: Default Team2
+    displayName: Default Team 2
     email: team-a@example.com
     picture: https://avatars.dicebear.com/api/identicon/team-a@example.com.svg?background=%23fff&margin=25
   parent: default-org
