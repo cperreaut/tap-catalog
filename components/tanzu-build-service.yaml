@@ -6,7 +6,7 @@ metadata:
   tags:
     - v1alpha1
   annotations:
-    'backstage.io/kubernetes-label-selector': 'app=build-pod-image-fetcher'
+    'backstage.io/kubernetes-namespace': 'build-service'
     'backstage.io/techdocs-ref': dir:.
 spec:
   type: service
