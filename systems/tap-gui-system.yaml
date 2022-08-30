@@ -6,5 +6,5 @@ metadata:
   annotations:
     'backstage.io/techdocs-ref': dir:.
 spec:
-  owner: default-team
+  owner: default-team2
   domain: tap-gui-domain
